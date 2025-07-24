@@ -61,39 +61,39 @@ export const testimonials = [
 export const features = [
   {
     icon: <BotMessageSquare />,
-    text: "Drag-and-Drop Interface",
+    text: "Drag-And-Drop Interface",
     description:
-      "Easily design and arrange your VR environments with a user-friendly drag-and-drop interface.",
+      "Easily Design And Arrange Your VR Environments With A User-Friendly Drag-And-Drop Interface.",
   },
   {
     icon: <Fingerprint />,
     text: "Multi-Platform Compatibility",
     description:
-      "Build VR applications that run seamlessly across multiple platforms, including mobile, desktop, and VR headsets.",
+      "Build VR Applications That Run Seamlessly Across Multiple Platforms, Including Mobile, Desktop, And VR Headsets.",
   },
   {
     icon: <ShieldHalf />,
-    text: "Built-in Templates",
+    text: "Built-In Templates",
     description:
-      "Jumpstart your VR projects with a variety of built-in templates for different types of applications and environments.",
+      "Jumpstart Your VR Projects With A Variety of Built-In Templates For Different Types of Applications And Environments.",
   },
   {
     icon: <BatteryCharging />,
     text: "Real-Time Preview",
     description:
-      "Preview your VR application in real-time as you make changes, allowing for quick iterations and adjustments.",
+      "Preview Your VR Application In Real-Time As You Make Changes, Allowing For Quick Iterations And Adjustments.",
   },
   {
     icon: <PlugZap />,
     text: "Collaboration Tools",
     description:
-      "Work together with your team in real-time on VR projects, enabling seamless collaboration and idea sharing.",
+      "Work Together With Your Team In Real-Time On VR Projects, Enabling Seamless Collaboration And Idea Sharing.",
   },
   {
     icon: <GlobeLock />,
     text: "Analytics Dashboard",
     description:
-      "Gain valuable insights into user interactions and behavior within your VR applications with an integrated analytics dashboard.",
+      "Gain Valuable Insights Into User Interactions And Behavior Within Your VR Applications With An Integrated Analytics Dashboard.",
   },
 ];
 
