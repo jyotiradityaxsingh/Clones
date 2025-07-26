@@ -1,6 +1,7 @@
 import HeroSection from "./components/HeroSection";
 import Navbar from "./components/Navbar";
 import FeatureSection from "./components/FeatureSection";
+import Workflow from "./components/Workflow";
 
 const App = () => {
   return (
@@ -9,6 +10,7 @@ const App = () => {
       <div className="max-w-7xl mx-auto pt-20 px-6">
         <HeroSection />
         <FeatureSection />
+        <Workflow />
       </div>
     </>
   );

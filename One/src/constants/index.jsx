@@ -24,37 +24,37 @@ export const testimonials = [
     user: "John Doe",
     company: "Stellar Solutions",
     image: user1,
-    text: "I am extremely satisfied with the services provided. The team was responsive, professional, and delivered results beyond my expectations.",
+    text: "I Am Extremely Satisfied With The Services Provided. The Team Was Responsive, Professional, And Delivered Results Beyond My Expectations.",
   },
   {
     user: "Jane Smith",
     company: "Blue Horizon Technologies",
     image: user2,
-    text: "I couldn't be happier with the outcome of our project. The team's creativity and problem-solving skills were instrumental in bringing our vision to life",
+    text: "I Couldn't Be Happier With The Outcome of Our Project. The Team's Creativity And Problem-Solving Skills Were Instrumental In Bringing Our Vision To Life",
   },
   {
     user: "David Johnson",
     company: "Quantum Innovations",
     image: user3,
-    text: "Working with this company was a pleasure. Their attention to detail and commitment to excellence are commendable. I would highly recommend them to anyone looking for top-notch service.",
+    text: "Working With This Company Was A Pleasure. Their Attention To Detail And Commitment To Excellence Are Commendable. I Would Highly Recommend Them To Anyone Looking For Top-Notch Service.",
   },
   {
     user: "Ronee Brown",
     company: "Fusion Dynamics",
     image: user4,
-    text: "Working with the team at XYZ Company was a game-changer for our project. Their attention to detail and innovative solutions helped us achieve our goals faster than we thought possible. We are grateful for their expertise and professionalism!",
+    text: "Working With The Team At XYZ Company Was A Game-changer For Our Project. Their Attention To Detail And Innovative Solutions Helped Us Achieve Our Goals Faster Than We Thought Possible. We Are Grateful For Their Expertise And Professionalism!",
   },
   {
     user: "Michael Wilson",
     company: "Visionary Creations",
     image: user5,
-    text: "I am amazed by the level of professionalism and dedication shown by the team. They were able to exceed our expectations and deliver outstanding results.",
+    text: "I Am Amazed By The Level of Professionalism And Dedication Shown By The Team. They Were Able To Exceed Our Expectations And Deliver Outstanding Results.",
   },
   {
     user: "Emily Davis",
     company: "Synergy Systems",
     image: user6,
-    text: "The team went above and beyond to ensure our project was a success. Their expertise and dedication are unmatched. I look forward to working with them again in the future.",
+    text: "The Team Went Above And Beyond To Ensure Our Project Was A Success. Their Expertise And Dedication Are Unmatched. I Look Forward To Working With Them Again In The Future.",
   },
 ];
 
@@ -99,24 +99,24 @@ export const features = [
 
 export const checklistItems = [
   {
-    title: "Code merge made easy",
+    title: "Code Merge Made Easy",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "Track The Performance of Your VR Apps And Gain Insights Into User Behavior.",
   },
   {
-    title: "Review code without worry",
+    title: "Review Code Without Worry",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "Track The Performance of Your VR Apps And Gain Insights Into User Behavior.",
   },
   {
-    title: "AI Assistance to reduce time",
+    title: "AI Assistance To Reduce Time",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "Track The Performance of Your VR Apps And Gain Insights Into User Behavior.",
   },
   {
-    title: "Share work in minutes",
+    title: "Share Work In Minutes",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "Track The Performance of Your VR Apps And Gain Insights Into User Behavior.",
   },
 ];
 
@@ -125,8 +125,8 @@ export const pricingOptions = [
     title: "Free",
     price: "$0",
     features: [
-      "Private board sharing",
-      "5 Gb Storage",
+      "Private Board Sharing",
+      "5 GB Storage",
       "Web Analytics",
       "Private Mode",
     ],
@@ -135,8 +135,8 @@ export const pricingOptions = [
     title: "Pro",
     price: "$10",
     features: [
-      "Private board sharing",
-      "10 Gb Storage",
+      "Private Board Sharing",
+      "10 GB Storage",
       "Web Analytics (Advance)",
       "Private Mode",
     ],
@@ -145,7 +145,7 @@ export const pricingOptions = [
     title: "Enterprise",
     price: "$200",
     features: [
-      "Private board sharing",
+      "Private Board Sharing",
       "Unlimited Storage",
       "High Performance Network",
       "Private Mode",
